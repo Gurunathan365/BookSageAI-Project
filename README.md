@@ -137,21 +137,4 @@ Embed the question  ──►  Search vector store  ──►  Retrieve top-k ch
 
 ---
 
-## Contributing
-
-Contributions are welcome! Here's how:
-
-1. Fork the repo
-2. Create a branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m "add your feature"`
-4. Push and open a Pull Request
-
----
-
-## License
-
-This project is open source. Add a `LICENSE` file if you'd like to specify terms.
-
----
-
 <p align="center">Built by <a href="https://github.com/Gurunathan365">Gurunathan365</a></p>
